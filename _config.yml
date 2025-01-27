@@ -22,8 +22,6 @@ title: Gary Seah's Portfolio
 email: garyseahjiawei@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Contains past projects as well as my thoughts and post mortems on them.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Daraxxus
 
 # Build settings
