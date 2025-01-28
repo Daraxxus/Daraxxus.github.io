@@ -1,0 +1,15 @@
+- achievementname: Best VR Hack 
+  details:
+    eventname: SUTD What The Hack Hackathon
+    when: Sep 2018
+    issuedby: Singapore University of Technology and Design (SUTD)
+    link: 
+    description: Lead Programmer of team "Espresso Despresso". Created a proof of concept of a Virtual Reality application designed to educate students on the properties of electricity in different circuit configurations. Players were tasked to create a defense network using turrets, cables and batteries. These networks would emulate properties of parallel and series circuits, which would help impart players with the basic knowledge of circuits. 
+
+- achievementname: 1st Runner Up
+  details:
+    eventname: JCU's Retro-Inspired Game Jam 2018
+    when: Nov 2018
+    issuedby: James Cook University
+    link: 
+    description: Lead Programmer of the team "Never Won Game Jam". Created a unique local multiplayer game inspired by Nintendo's Smash series, where up to 4 players are dropped onto a arena and try to get knocked out the least. Unique gameplay elements include an exclusion of normal movement mechanics; Instead, players are forced to use the gun's knockback in order to move around the arena. The arena also changes throughout the match duration, having players constantly fight throguh different retro-inspired locales.
