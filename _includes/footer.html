@@ -1,0 +1,29 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                {%- if site.data.contacts %}
+                <ul class="contact-list">
+                    {% if site.data.contacts.name -%}
+                    <li class="p-name">{{ site.data.contacts.name | escape }}</li>
+                    {% endif -%}
+                    {% if site.data.contacts.phone -%}
+                    <li class="u-phone"">{{ site.data.contacts.phone | escape}}</li>
+                    {%- endif %}
+                    {% if site.data.contacts.email -%}
+                    <li><a class=" u-email" href="mailto:{{ site.contacts.email }}">{{ site.data.contacts.email }}</a>
+                    </li>
+                    {% endif -%}
+                </ul>
+                {%- endif %}
+            </div>
+            <div class=" footer-col">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
+    </div>
+
+</footer>
