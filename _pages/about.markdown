@@ -4,6 +4,8 @@ permalink: /about/
 ---
 
 # About Me
+![](/_assets/images/AboutMePhoto.jpg)
+
 Hello! My name is Gary Seah and I am a aspiring software developer. I am adept at C, C++ and C#, with numerous game projects done within Unity as well as in custom written engines. 
 
 Whilst most of my projects and experience are game projects, I typically take on a technical lead role, writing the backend low-level systems as well as tools in order to support my team in game creation. Examples would be robust debugging tools which logs engine components performance and an audio system with plug and play functionality to support audio clip transitions via the bpm and time signature of the audio clip. 
@@ -27,6 +29,8 @@ For my game development experience, I seek to create game experiences with uniqu
     <li> Fast-paced bullet hell boss rush game where players defeat the boss by typing out a passage, having to juggle between dodging bullets and typing </li>
     <li> 2D action game where the player utilises the keyboard to move the character by hitting keys that is mapped to a game area on the screen </li>
 </ul>
+
+In my free time, I enjoy photography and some bouldering. I am also a fan of board games, enjoying a quick game to wind down after a long day. 
 
 # Qualifications
 {% for item in site.data.qualifications %}
