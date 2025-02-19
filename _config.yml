@@ -31,6 +31,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+projects: /blog/projects/
+
 defaults:
   -
     scope:

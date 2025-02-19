@@ -41,12 +41,4 @@ In my free time, I enjoy photography and some bouldering. I am also a fan of boa
 </ul>
 {% endfor %}
 
-# Notable Achievements
-{% for item in site.data.achievements %}
-<span style='font-weight: bold;'> {{item.achievementname}} </span>
-<p> {{item.details.eventname}} | {{item.details.when}} <br> Issued by {{item.details.issuedby}} </p>
-<hr>
-<p> {{item.details.description}} <br> <br> </p>
-{% endfor %}
-
-    
+To see a list of my projects and achievements, click <a href="{{site.base}}/Projects_Achievements/">here</a>.
